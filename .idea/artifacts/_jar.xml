@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Проекты:jar">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="Проекты.jar">
+      <element id="module-output" name="Проекты" />
+    </root>
+  </artifact>
+</component>
